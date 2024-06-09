@@ -6,7 +6,7 @@
 <ul>* MVVM</ul>
 <ul>* Corotuine</ul>
 
-<p> I have built expense manager app in which I am entering data into Firebase or passing data from there into the room database and fetching from the room database in reseller view or displaying data to the user With the help of live data </p>
+<p> I have built expense manager app in which I am entering data into Firebase or passing data from there into the room database and fetching from the room database in receyler view or displaying data to the user With the help of live data </p>
 
 <h1> Demo </h1>
 
